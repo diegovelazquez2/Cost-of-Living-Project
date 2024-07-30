@@ -89,6 +89,20 @@ The second visual was an object map chart, which I was a bit less familiar with.
 
 <img width="1217" alt="Screenshot 2024-07-30 at 3 07 22 PM" src="https://github.com/user-attachments/assets/de676703-9b68-476f-a87d-c86bf975eba9">
 
+**Pie Chart**
+
+The final visual that I created was a pie chart. In order to create the visual I was looking for, I needed to use both the city, and measure names as a filter. The measure values were the Rent %, Car Payment %, Utilities %, Food Cost %, Other Cost %, and Savings %. These were calculated fields that I created in Tableau by dividing the costs from each view by total income. I also created a savings calculated field where I found the difference from income and total cost of living. I then edited the tooltips to show the proper info for each slice of the pie.
+
+<img width="1514" alt="Screenshot 2024-07-30 at 3 12 18 PM" src="https://github.com/user-attachments/assets/9c520f0c-3a98-4572-ba7a-528b37cc9e9c">
+
+**Here is the final dashboard**
+
+<img width="1726" alt="Screenshot 2024-07-30 at 3 13 08 PM" src="https://github.com/user-attachments/assets/af5d2f5e-dee3-46f4-8f89-c7999870aba9">
+
+Check out my youtube channel for a full demo of the dashboard!
+
+https://www.youtube.com/@DiegoVelazquezData 
+
 
 
 
