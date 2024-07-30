@@ -82,7 +82,9 @@ The first two visuals I created using the Cost to Income View that I had created
 
 <img width="1152" alt="Screenshot 2024-07-30 at 3 04 43 PM" src="https://github.com/user-attachments/assets/a95b56b2-c078-4157-9b82-23bd5a959eaa">
 
+
 The second visual was a map chart, which I was a bit less familiar with. I needed to edit the latitude and longitude for 10 of the cities, because there are cities in other states with the same names. I then created a new view called CostToIncomeWithRank where I used a window function to add a rank column into the CostToIncomeView. This allowed me to edit the label, and put it directly in the bubble for each city. Then I was able to display the rankings of each cities cost to income ratio directly on a map of the US.
+
 
 <img width="1217" alt="Screenshot 2024-07-30 at 3 07 22 PM" src="https://github.com/user-attachments/assets/de676703-9b68-476f-a87d-c86bf975eba9">
 
