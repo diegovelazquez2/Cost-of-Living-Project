@@ -33,6 +33,12 @@ The dataset:
 
    <img width="496" alt="Screenshot 2024-07-30 at 1 58 02 PM" src="https://github.com/user-attachments/assets/de28f0e8-83f5-4167-a2c7-874ab42d77e0">
 
+3. The last change that I made in the dataset revolved around columns which measured price per square meter for real estate, inside and outside of the city center.
+   I am from the US and am not too familiar with the metric system, so I decided to change these two columns to Square Feet.
+
+   <img width="1005" alt="Screenshot 2024-07-30 at 2 06 50 PM" src="https://github.com/user-attachments/assets/5480b704-79e7-4dd4-832d-b70acf5c24ec">
+   <img width="1032" alt="Screenshot 2024-07-30 at 2 09 51 PM" src="https://github.com/user-attachments/assets/3c407959-f0a6-4431-8a69-4d034f6e3fc3">
+   <img width="1340" alt="Screenshot 2024-07-30 at 2 11 05 PM" src="https://github.com/user-attachments/assets/05a6ebda-f926-460b-abc2-cae64d452034">
 
 
     
