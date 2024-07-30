@@ -66,7 +66,25 @@ pie chart where I display each segment of the cost of living in each city.
 
 <img width="1200" alt="Screenshot 2024-07-30 at 2 49 31 PM" src="https://github.com/user-attachments/assets/11cdb5a6-debc-4ad8-81e5-50021395a50a">
 
-<img width="656" alt="Screenshot 2024-07-30 at 2 52 07 PM" src="https://github.com/user-attachments/assets/7b56de14-8b20-4ac5-adc4-be231e91bb47">
+<img width="727" alt="Screenshot 2024-07-30 at 2 53 18 PM" src="https://github.com/user-attachments/assets/2f2da53f-8a39-461a-b767-49fc5ac3751e">
+
+## Using Tableau:
+
+After cleaning the data, and creating views, the next step was to connect the database to Tableau. I did this by downloading the Azure SQL drivers, and connecting live to the database directly. 
+
+Here was my main thought process behind creating the dashboard:
+
+* My goal was to create a one-sheet dashboard that tells the whole story
+* I wanted to create a few simple insights that would answer my questions
+* I wanted to create pie chart that allowed me to drill down into the specific costs that make up each city's cost of living
+
+The first two visuals I created using the Cost to Income View that I had created in SQL. The first visual was a line chart, and which I added an AVG line to. 
+
+<img width="1152" alt="Screenshot 2024-07-30 at 3 04 43 PM" src="https://github.com/user-attachments/assets/a95b56b2-c078-4157-9b82-23bd5a959eaa">
+
+The second visual was a map chart, which I was a bit less familiar with. I needed to edit the latitude and longitude for 10 of the cities, because there are cities in other states with the same names. I then created a new view called CostToIncomeWithRank where I used a window function to add a rank column into the CostToIncomeView. This allowed me to edit the label, and put it directly in the bubble for each city. Then I was able to display the rankings of each cities cost to income ratio directly on a map of the US.
+
+<img width="1217" alt="Screenshot 2024-07-30 at 3 07 22 PM" src="https://github.com/user-attachments/assets/de676703-9b68-476f-a87d-c86bf975eba9">
 
 
 
