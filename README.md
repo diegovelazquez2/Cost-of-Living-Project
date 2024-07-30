@@ -18,3 +18,5 @@ I found the following dataset on kaggle, which presented a unique opportunity to
 
 ## Preparing the project data
 The dataset:
+<img width="1464" alt="Screenshot 2024-07-30 at 1 44 33 PM" src="https://github.com/user-attachments/assets/dd5bd269-759d-4565-bf0a-a4f9b448a083">
+ 
