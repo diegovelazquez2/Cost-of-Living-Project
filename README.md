@@ -48,7 +48,21 @@ The dataset:
 
 ## Creating Views:
 
+**In order to filter American cities that I was interested in, I created this initial view:**
+
+<img width="627" alt="Screenshot 2024-07-30 at 2 40 15 PM" src="https://github.com/user-attachments/assets/d1ce09a5-1564-4138-bc4d-08febe687cdc">
+
+**Here is what the view looks like:**
+
+<img width="627" alt="Screenshot 2024-07-30 at 2 40 15 PM" src="https://github.com/user-attachments/assets/b764c0be-3a27-428f-9e8b-d4305b8a1595">
 
 
-    
+After this, I began creating a number of other views which I might be able to use directly in Tableau to create different visuals... I created views such as one showing a city and cost to income ratio,
+utilities costs, car payment, food costs, etc per city. I used the cost to income ratio directly in a bar chart and object map chart, and the amounts for different areas of cost of living to create a 
+pie chart where I display each segment of the cost of living in each city.
+
+**Here are some examples** 
+
+
+
 
