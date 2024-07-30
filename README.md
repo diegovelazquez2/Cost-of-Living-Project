@@ -62,7 +62,12 @@ After this, I began creating a number of other views which I might be able to us
 utilities costs, car payment, food costs, etc per city. I used the cost to income ratio directly in a bar chart and object map chart, and the amounts for different areas of cost of living to create a 
 pie chart where I display each segment of the cost of living in each city.
 
-**Here are some examples** 
+**Here are some examples:**
+
+<img width="1200" alt="Screenshot 2024-07-30 at 2 49 31 PM" src="https://github.com/user-attachments/assets/11cdb5a6-debc-4ad8-81e5-50021395a50a">
+
+<img width="656" alt="Screenshot 2024-07-30 at 2 52 07 PM" src="https://github.com/user-attachments/assets/7b56de14-8b20-4ac5-adc4-be231e91bb47">
+
 
 
 
