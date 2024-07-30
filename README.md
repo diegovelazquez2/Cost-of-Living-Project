@@ -54,7 +54,8 @@ The dataset:
 
 **Here is what the view looks like:**
 
-<img width="627" alt="Screenshot 2024-07-30 at 2 40 15 PM" src="https://github.com/user-attachments/assets/b764c0be-3a27-428f-9e8b-d4305b8a1595">
+
+<img width="1249" alt="Screenshot 2024-07-30 at 2 43 26 PM" src="https://github.com/user-attachments/assets/22e23c2b-267d-464b-bdc1-d99e7c6c12a9">
 
 
 After this, I began creating a number of other views which I might be able to use directly in Tableau to create different visuals... I created views such as one showing a city and cost to income ratio,
