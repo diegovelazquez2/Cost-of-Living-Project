@@ -37,8 +37,17 @@ The dataset:
    I am from the US and am not too familiar with the metric system, so I decided to change these two columns to Square Feet.
 
    <img width="1005" alt="Screenshot 2024-07-30 at 2 06 50 PM" src="https://github.com/user-attachments/assets/5480b704-79e7-4dd4-832d-b70acf5c24ec">
+
+   **Here's the script:**
+   
    <img width="1032" alt="Screenshot 2024-07-30 at 2 09 51 PM" src="https://github.com/user-attachments/assets/3c407959-f0a6-4431-8a69-4d034f6e3fc3">
+
+   **Here's what the new DB looks like**
+   
    <img width="1340" alt="Screenshot 2024-07-30 at 2 11 05 PM" src="https://github.com/user-attachments/assets/05a6ebda-f926-460b-abc2-cae64d452034">
+
+## Creating Views:
+
 
 
     
