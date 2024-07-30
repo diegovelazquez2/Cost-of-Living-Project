@@ -28,7 +28,7 @@ The dataset:
     I created the following script to rename the column indexes:
     <img width="991" alt="Screenshot 2024-07-30 at 1 54 57 PM" src="https://github.com/user-attachments/assets/9c61ebd8-5aaf-438e-9f15-60f970ac58cd">
 
-2. Dropping Unneccessary Columns. Because there are so many columns there were a few which I didn't think were necessary like imported beer, cigarrettes, monthly pass, etc. I created the following script to drop the columns which I hadn't included in the script renaming the indexes I wanted to keep:
+2. Dropping Unneccessary Columns. Because there are so many columns there were a few which I didn't think were necessary like imported beer, cigarrettes, monthly pass, etc. I created the following script to drop the columns     which I hadn't included in the script renaming the indexes I wanted to keep:
    <img width="496" alt="Screenshot 2024-07-30 at 1 58 02 PM" src="https://github.com/user-attachments/assets/de28f0e8-83f5-4167-a2c7-874ab42d77e0">
 
 
